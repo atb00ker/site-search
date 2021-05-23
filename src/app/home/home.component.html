@@ -1,1 +1,35 @@
-<p>home works!</p>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-auto">
+            <h1 id='page-title'>{{ pageTitle }}</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12 col-lg-6" *ngFor="let category of categories;">
+            <div class="card mt-4">
+                <div class="card-body">
+                    <div class="d-flex align-items-center">
+                        <div class="card-image text-white {{ category.theme }}">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"
+                                fill="#ffffff">
+                                <path [attr.d]="category.icon" />
+                            </svg>
+                        </div>
+                        <div class="card-text-container">
+                            <div>{{ category.title }}</div>
+                            <div class="card-description">{{ category.description }}</div>
+                        </div>
+                        <a href="?category={{ category.tag }}" class="text-muted" data-abc="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" class="feather feather-arrow-right">
+                                <line x1="5" y1="12" x2="19" y2="12"></line>
+                                <polyline points="12 5 19 12 12 19"></polyline>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

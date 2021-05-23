@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { Title } from "@angular/platform-browser";
+// Great Sites
+import { ApiService } from '../api.service';
+import { SiteCategory } from '../app.interface';
 
 @Component({
   selector: 'app-home',
@@ -7,9 +11,22 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
+  public pageTitle: string;
+  public categories: SiteCategory[];
 
-  ngOnInit(): void {
+  constructor(private titleService: Title, private api: ApiService) {
+    this.pageTitle = "Browse Categories...";
+    this.titleService.setTitle("Site Searching | Categories");
   }
 
+  ngOnInit(): void {
+    this.getCategories();
+  }
+
+  getCategories() {
+    this.api.getCategories().then(
+      response => this.categories = response,
+      error => console.error(error)
+    );
+  }
 }
