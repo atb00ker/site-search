@@ -1,4 +1,4 @@
-# Wordless Searchengine
+# Site Search
 
 Enables sharing of useful sites.
 

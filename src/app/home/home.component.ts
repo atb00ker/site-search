@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Title } from "@angular/platform-browser";
-// Great Sites
+// Site Search
 import { ApiService } from '../api.service';
 import { SiteCategory } from '../app.interface';
 
@@ -16,7 +16,7 @@ export class HomeComponent implements OnInit {
 
   constructor(private titleService: Title, private api: ApiService) {
     this.pageTitle = "Browse Categories...";
-    this.titleService.setTitle("Site Searching | Categories");
+    this.titleService.setTitle("Site Search | Categories");
   }
 
   ngOnInit(): void {

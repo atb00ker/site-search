@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { Component } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
-// Wordless SearchEngine
+// Site Search
 import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './home/home.component';
 import { NavComponent } from './nav/nav.component';
@@ -18,7 +18,7 @@ import { AboutComponent } from './about/about.component';
 })
 
 export class AppComponent {
-  title = 'Wordless Searchengine!';
+  title = 'Site Search';
 }
 
 @NgModule({
