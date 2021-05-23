@@ -1,1 +1,19 @@
-<p>nav works!</p>
+<nav class="navbar navbar-expand-md nav-color navbar-dark">
+    <a class="navbar-brand" [routerLink]=[HOME_PATH]>Wordless Search</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-label="Toggle navigation" [attr.aria-expanded]="!isCollapsed"
+        (click)="isCollapsed = !isCollapsed">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" [ngClass]="{'show': !isCollapsed}">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" (click)="isCollapsed = !isCollapsed" [routerLink]=[HOME_PATH]>Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" (click)="isCollapsed = !isCollapsed" [routerLink]=[ABOUT_PATH]>About</a>
+            </li>
+        </ul>
+    </div>
+</nav>

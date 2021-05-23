@@ -1,8 +1,8 @@
-
+// Angular
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { Component } from '@angular/core';
-
+// Wordless SearchEngine
 import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './home/home.component';
 import { NavComponent } from './nav/nav.component';
