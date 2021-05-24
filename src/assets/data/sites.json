@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Bootstrap Icons",
+        "description": "Free, high quality, open source icon library with over 1,300 icons. SVGs, SVG sprite, or web fonts.",
+        "image": "./assets/images/sites/bootstrap-fonts.png",
+        "link": "https://icons.getbootstrap.com",
+        "tags": [
+            "icons",
+            "svg-icons",
+            "png-icons",
+            "web-designing"
+        ]
+    },
+    {
+        "title": "Google Icons",
+        "description": "Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.",
+        "image": "./assets/images/sites/google-fonts.png",
+        "link": "https://fonts.google.com/icons",
+        "tags": [
+            "icons",
+            "svg-icons",
+            "png-icons",
+            "web-designing"
+        ]
+    },
+    {
+        "title": "The Better Home",
+        "description": "The Better Home is a range of natural cleaning products built on the belief that you should not have to choose between what’s effective, what’s good for you, and what’s good for the planet.",
+        "image": "./assets/images/sites/the-better-home.png",
+        "link": "https://shop.thebetterindia.com",
+        "tags": [
+            "environment",
+            "community",
+            "india-only"
+        ]
+    }
+]

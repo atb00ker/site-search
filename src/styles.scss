@@ -14,9 +14,17 @@ label { margin: 0; }
 @font-face {
     font-family: 'Ubuntu';
     src: url('./assets/fonts/Ubuntu/Ubuntu-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: 400;
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./assets/fonts/Ubuntu/Ubuntu-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: 700;
 }
+
 @font-face {
     font-family: 'Courgette';
     src: url('./assets/fonts/Courgette/Courgette-Regular.ttf') format('truetype');
@@ -25,7 +33,7 @@ label { margin: 0; }
 }
 
 #page-title {
-    font-family: 'Courgette', cursive;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 40px;
     font-weight: 700;
 }

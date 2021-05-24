@@ -1,3 +1,37 @@
+.card-body {
+    cursor: pointer;
+}
+
+.site-card {
+    max-width: 310px;
+}
+.site-card .card-title {
+    height: 25px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 0;
+}
+
+.site-card .card-tags {
+    height: 25px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 5px;
+}
+
+.site-card .card-text {
+    height: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.site-card .card-img-top {
+    height: 170px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
 .card-image {
     position: relative;
     line-height: 1;

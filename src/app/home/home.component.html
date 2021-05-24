@@ -4,30 +4,47 @@
             <h1 id='page-title'>{{ pageTitle }}</h1>
         </div>
     </div>
-    <div class="row">
-        <div class="col-sm-12 col-lg-6" *ngFor="let category of categories;">
+    <div class="row" *ngIf="!selectedCategory">
+        <div class="col-xs-12 col-lg-6" *ngFor="let category of categories;">
             <div class="card mt-4">
-                <div class="card-body">
-                    <div class="d-flex align-items-center">
-                        <div class="card-image text-white {{ category.theme }}">
-                            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"
-                                fill="#ffffff">
-                                <path [attr.d]="category.icon" />
-                            </svg>
+                <a (click)="selectCategory(category.tag)" class="text-muted" data-abc="true">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div class="card-image text-white {{ category.theme }}">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"
+                                    fill="#ffffff">
+                                    <path [attr.d]="category.icon" />
+                                </svg>
+                            </div>
+                            <div class="card-text-container">
+                                <div>{{ category.title }}</div>
+                                <div class="card-description">{{ category.description }}</div>
+                            </div>
                         </div>
-                        <div class="card-text-container">
-                            <div>{{ category.title }}</div>
-                            <div class="card-description">{{ category.description }}</div>
-                        </div>
-                        <a href="?category={{ category.tag }}" class="text-muted" data-abc="true">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
-                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round" class="feather feather-arrow-right">
-                                <line x1="5" y1="12" x2="19" y2="12"></line>
-                                <polyline points="12 5 19 12 12 19"></polyline>
-                            </svg>
-                        </a>
                     </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="row" *ngIf="selectedCategory">
+        <div class="col-12 mt-1">
+            <button type="button" (click)="selectCategory()" class="btn btn-outline-primary">Back</button>
+        </div>
+        <div class="col-12 col-sm-6 col-md-5 col-lg-4 col-xl-3 mt-3" *ngFor="let site of filteredSites;">
+            <div class="site-card card mx-auto">
+                <img class="card-img-top" [attr.src]="site.image" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title" [title]="site.title">{{ site.title }}</h5>
+                    <p class="card-tags" [title]="site.tags.join(', ')"><small>{{ site.tags.join(', ') }}</small></p>
+                    <p class="card-text" [title]="site.description">{{ site.description }}</p>
+                    <a [href]="site.link" target="_blank" [attr.aria-label]="site.title" class="card-link"> Open
+                        <svg xmlns="http://www.w3.org/2000/svg" height="14px" viewBox="0 -5 28 28" width="14px"
+                            fill="#0056b3">
+                            <path d="M0 0h24v24H0V0z" fill="none" />
+                            <path
+                                d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z" />
+                        </svg>
+                    </a>
                 </div>
             </div>
         </div>
