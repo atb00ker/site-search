@@ -11,8 +11,8 @@
                     <div class="card-body">
                         <div class="d-flex align-items-center">
                             <div class="card-image text-white {{ category.theme }}">
-                                <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px"
-                                    fill="#ffffff">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                                    [attr.viewBox]="category.iconViewbox" width="24px" fill="#ffffff">
                                     <path [attr.d]="category.icon" />
                                 </svg>
                             </div>

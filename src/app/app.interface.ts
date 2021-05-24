@@ -3,6 +3,7 @@ export interface SiteCategory {
     title: string;
     tag: string;
     icon?: string;
+    iconViewbox?: string;
     description?: string;
     theme?: string;
 }

@@ -8,7 +8,9 @@
             "icons",
             "svg-icons",
             "png-icons",
-            "web-designing"
+            "illustrations",
+            "web-designing",
+            "free"
         ]
     },
     {
@@ -20,7 +22,43 @@
             "icons",
             "svg-icons",
             "png-icons",
-            "web-designing"
+            "illustrations",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Undraw",
+        "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
+        "image": "./assets/images/sites/undraw.png",
+        "link": "https://undraw.co",
+        "tags": [
+            "illustrations",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Scale",
+        "description": "Royalty free Vector Illustrations for Commercial Use. One new high-quality, free illustration each day.",
+        "image": "./assets/images/sites/scale-flexiple.png",
+        "link": "https://2.flexiple.com/scale/home",
+        "tags": [
+            "illustrations",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Pixlr",
+        "description": "Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.",
+        "image": "./assets/images/sites/pixlr.png",
+        "link": "https://pixlr.com",
+        "tags": [
+            "graphic-designing",
+            "photo-editing",
+            "web-designing",
+            "free"
         ]
     },
     {
@@ -32,6 +70,15 @@
             "environment",
             "community",
             "india-only"
+        ]
+    },
+    {
+        "title": "Privacy tools",
+        "description": "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.",
+        "image": "./assets/images/sites/privacytoolsio.png",
+        "link": "https://privacytools.io/",
+        "tags": [
+            "privacy"
         ]
     }
 ]
