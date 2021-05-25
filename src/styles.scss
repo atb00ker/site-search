@@ -9,9 +9,7 @@ a { color: #013f82; }
 label { margin: 0; }
 .row { margin: auto! important; }
 
-/************
-* Scrollbar
-************/
+/* Scrollbar */
 
 :root{
   scrollbar-color: #888 #f1f1f1 !important;
@@ -71,60 +69,4 @@ label { margin: 0; }
 
 .bg-dribble-pink {
     background-color: #ea4c89;
-}
-
-/* Common Styles */
-
-.icon-white {
-    fill: white;
-}
-
-.image-attribution {
-    font-size: 10px;
-}
-
-.clipboard-button {
-    border: 0;
-    padding: 0;
-    background: transparent;
-    fill: inherit;
-}
-
-/* Display Status Section Styles */
-
-.display-status {
-    border: 2px #999 solid;
-    border-radius: 4px;
-    text-align: center;
-    padding: 10px 0;
-}
-
-.display-status-normal {
-    @extend .display-status;
-    border-color: #999;
-    color: #212529;
-}
-
-.display-status-error {
-    @extend .display-status;
-    border-color: #dc3545;
-    color: #dc3545;
-}
-
-.display-status-success {
-    @extend .display-status;
-    border-color: #28a745;
-    color: #28a745;
-}
-
-.display-status-progress {
-    @extend .display-status;
-    border-color: #17a2b8;
-    color: #17a2b8;
-}
-
-/* Global Toast location */
-
-.ngb-toasts {
-    top: 60px !important;
 }

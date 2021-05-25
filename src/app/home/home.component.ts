@@ -17,8 +17,12 @@ export class HomeComponent implements OnInit, OnDestroy {
   public pageTitle: string;
   public selectedCategory: SiteCategory;
   public categories: SiteCategory[];
+  // Sites are the big cards
   public allSites: Site[];
   public filteredSites: Site[];
+  // Pebbles are sites without description - they are shown in smaller cards
+  public allPebbles: Site[];
+  public filteredPebbles: Site[];
   private ngUnsubscribe = new Subject();
 
   constructor(private titleService: Title, private router: Router,
@@ -40,8 +44,10 @@ export class HomeComponent implements OnInit, OnDestroy {
           if (this.selectedCategory) {
             this.pageTitle = this.selectedCategory.title;
             this.titleService.setTitle(`Site Search | ${this.selectedCategory.title}`);
-            this.filteredSites = this.allSites.filter(site =>
-              site.tags.includes(this.selectedCategory.tag));
+            this.filteredSites = this.allSites
+              .filter(site => site.tags.includes(this.selectedCategory.tag));
+            this.filteredPebbles = this.allPebbles
+              .filter(site => site.tags.includes(this.selectedCategory.tag));
           } else {
             this.pageTitle = "Browse Categories...";
             this.titleService.setTitle("Site Search | Categories");
@@ -64,12 +70,17 @@ export class HomeComponent implements OnInit, OnDestroy {
   getSites(): Promise<Site[]> {
     return this.api.getSites().then(
       response => {
-        this.allSites = response;
-        if (this.selectedCategory)
-          this.filteredSites = this.allSites.filter(site =>
-            site.tags.includes(this.selectedCategory.tag));
-        else
+        this.allSites = response.filter(site => site.description);
+        this.allPebbles = response.filter(site => !site.description);
+        if (this.selectedCategory) {
+          this.filteredSites = this.allSites
+            .filter(site => site.tags.includes(this.selectedCategory.tag));
+          this.filteredPebbles = this.allPebbles
+            .filter(site => site.tags.includes(this.selectedCategory.tag));
+        } else {
           this.filteredSites = this.allSites;
+          this.filteredPebbles = this.allPebbles;
+        }
         return response;
       },
       error => {

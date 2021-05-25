@@ -10,8 +10,8 @@ export interface SiteCategory {
 
 export interface Site {
     title: string;
-    description: string;
-    image: string;
+    description?: string;
+    image?: string;
     link: string;
     tags: Array<string>;
 }
