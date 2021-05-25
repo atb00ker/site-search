@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Bootstrap Icons",
+        "description": "Free, high quality, open source icon library with over 1,300 icons. SVGs, SVG sprite, or web fonts.",
+        "image": "./assets/images/sites/bootstrap-fonts.png",
+        "link": "https://icons.getbootstrap.com",
+        "tags": [
+            "icons",
+            "svg-icons",
+            "png-icons",
+            "illustrations",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Google Icons",
+        "description": "Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.",
+        "image": "./assets/images/sites/google-fonts.png",
+        "link": "https://fonts.google.com/icons",
+        "tags": [
+            "icons",
+            "svg-icons",
+            "png-icons",
+            "illustrations",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Undraw",
+        "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
+        "image": "./assets/images/sites/undraw.png",
+        "link": "https://undraw.co",
+        "tags": [
+            "illustrations",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Scale",
+        "description": "Royalty free Vector Illustrations for Commercial Use. One new high-quality, free illustration each day.",
+        "image": "./assets/images/sites/scale-flexiple.png",
+        "link": "https://2.flexiple.com/scale/home",
+        "tags": [
+            "illustrations",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Pixlr",
+        "description": "Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.",
+        "image": "./assets/images/sites/pixlr.png",
+        "link": "https://pixlr.com",
+        "tags": [
+            "graphic-designing",
+            "photo-editing",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Bootstrap",
+        "link": "https://getbootstrap.com/",
+        "tags": [
+            "css-library",
+            "web-designing"
+        ]
+    },
+    {
+        "title": "Material UI",
+        "link": "https://material-ui.com/",
+        "tags": [
+            "css-library",
+            "web-designing"
+        ]
+    },
+    {
+        "title": "The Better Home",
+        "description": "The Better Home is a range of natural cleaning products built on the belief that you should not have to choose between what’s effective, what’s good for you, and what’s good for the planet.",
+        "image": "./assets/images/sites/the-better-home.png",
+        "link": "https://shop.thebetterindia.com",
+        "tags": [
+            "environment",
+            "community",
+            "india-only"
+        ]
+    },
+    {
+        "title": "Privacy tools",
+        "description": "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.",
+        "image": "./assets/images/sites/privacytoolsio.png",
+        "link": "https://privacytools.io/",
+        "tags": [
+            "privacy"
+        ]
+    },
+    {
+        "title": "NetGuard",
+        "description": "NetGuard provides simple and advanced ways to block access to the internet - no root required.",
+        "image": "./assets/images/sites/netguard.png",
+        "link": "https://privacytools.io/",
+        "tags": [
+            "privacy",
+            "android",
+            "free"
+        ]
+    },
+    {
+        "title": "Bouncer",
+        "description": "Bouncer gives you the ability to grant permissions to any application temporarily.",
+        "image": "./assets/images/sites/bouncer.png",
+        "link": "https://play.google.com/store/apps/details?id=com.samruston.permission",
+        "tags": [
+            "privacy",
+            "android",
+            "paid"
+        ]
+    },
+    {
+        "title": "Techquickie",
+        "description": "With a mix of humor, cynicism, and insight, Techquickie brings you the answers to all your tech questions every Tuesday and Friday.",
+        "image": "./assets/images/sites/yt-techquickie.png",
+        "link": "https://www.youtube.com/user/Techquickie",
+        "tags": [
+            "youtube",
+            "technology",
+            "news"
+        ]
+    },
+    {
+        "title": "Rare Earth",
+        "description": "I fly somewhere. I film it. I find cool stories about it, and write them down. Then I tell them to you.",
+        "image": "./assets/images/sites/yt-rareearth.png",
+        "link": "https://www.youtube.com/channel/UCtGG8ucQgEJPeUPhJZ4M4jA",
+        "tags": [
+            "youtube"
+        ]
+    }
+]
