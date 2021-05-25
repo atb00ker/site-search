@@ -96,5 +96,47 @@
         "tags": [
             "privacy"
         ]
+    },
+    {
+        "title": "NetGuard",
+        "description": "NetGuard provides simple and advanced ways to block access to the internet - no root required.",
+        "image": "./assets/images/sites/netguard.png",
+        "link": "https://privacytools.io/",
+        "tags": [
+            "privacy",
+            "android",
+            "free"
+        ]
+    },
+    {
+        "title": "Bouncer",
+        "description": "Bouncer gives you the ability to grant permissions to any application temporarily.",
+        "image": "./assets/images/sites/bouncer.png",
+        "link": "https://play.google.com/store/apps/details?id=com.samruston.permission",
+        "tags": [
+            "privacy",
+            "android",
+            "paid"
+        ]
+    },
+    {
+        "title": "Techquickie",
+        "description": "With a mix of humor, cynicism, and insight, Techquickie brings you the answers to all your tech questions every Tuesday and Friday.",
+        "image": "./assets/images/sites/yt-techquickie.png",
+        "link": "https://www.youtube.com/user/Techquickie",
+        "tags": [
+            "youtube",
+            "technology",
+            "news"
+        ]
+    },
+    {
+        "title": "Rare Earth",
+        "description": "I fly somewhere. I film it. I find cool stories about it, and write them down. Then I tell them to you.",
+        "image": "./assets/images/sites/yt-rareearth.png",
+        "link": "https://www.youtube.com/channel/UCtGG8ucQgEJPeUPhJZ4M4jA",
+        "tags": [
+            "youtube"
+        ]
     }
 ]

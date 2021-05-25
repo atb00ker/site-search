@@ -16,9 +16,9 @@ npm install -g @angular/cli
 npm install -g angular-cli-ghpages
 ```
 
-- Configure `src/environments/common.ts`
+- Enter your sites / categories: `src/assets/data/`
 
 ### Deploy
 
-- Build: `ng build --prod --base-href https://atb00ker.github.io/giveaway-app/`
-- Deploy: `ngh --dir dist/giveaway/`
+- Build: `ng build --prod --base-href https://atb00ker.github.io/site-search/`
+- Deploy: `ngh --dir dist/site-search/`
