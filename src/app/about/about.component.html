@@ -1,1 +1,66 @@
-<p>about works!</p>
+<div class="container mb-5">
+    <div class="row">
+        <div class="offset-lg-1 col-lg-10 col-md-12">
+            <h3 class="mt-5">About</h3>
+            <p>
+                Every once in a while I come across an amazing website, a tool, or an application
+                on the internet that I want to share it with everyone or at least keep it safe here
+                for whenever it might be required. This is a showroom for the same.
+            </p>
+            <h4 class="mt-4">Sharing Websites</h4>
+            <p>
+                Do you have a website / an application you want to add here? Perhaps an entirely
+                new category that I missed?
+                Great, you can either drop me a mail at
+                <span class="text-primary">{{ contactAuthorText }}
+                    <email-copy-icon style="fill:#007bff;"></email-copy-icon>
+                </span>
+                or you can
+                <a [href]="dataJsonUrl">edit the data JSON and create a pull request.</a>
+            </p>
+            <h4 class="mt-4">Privacy</h4>
+            <p>
+                No information is collected by this site.
+            </p>
+            <h4 class="mt-4">No Guarantee / Responsibility</h4>
+            <p>
+                The content on the website is provided under MIT license with good faith
+                of sharing useful information. The sites linked are not under my supervision
+                and I do not take any responsibility of any direct and/or indirect
+                loss incurred from using them.
+            </p>
+            <h4 class="mt-4">Bugs & Code Contributions</h4>
+            <p>
+                If you"ve found a bug, please checkout the repository of the project as
+                mentioned in the "open-source" section on this page. If an issue for the bug
+                doesn"t exist already, please open a new ticket.
+            </p>
+            <p>
+                If you want to contribute to the project, please remember I don't want to add
+                features that will take a lot of my time for maintenance, let's keep it simple.
+                Please open an issue on GitHub to discuss the changes!
+            </p>
+            <h4 class="mt-4">Open-Source</h4>
+            <p>
+                This is an open-source project,
+                <a [href]="codeUrl">the code for this site</a>
+                can be found on GitHub.
+            </p>
+            <h4 class="mt-4">Hosting</h4>
+            <p>
+                Do you want to host a version of this site for yourself & have your own showcase?
+                Easy. <a [href]="createCloneUrl">Just follow the documentation</a>.
+            </p>
+            <h4 class="mt-4">License</h4>
+            The <a [href]="codeUrl">Frontend (Angular)</a>
+            is under <b>MIT License</b>.
+            <br>
+            The site favicon of the website is contributed by
+            <a href="https://commons.wikimedia.org/wiki/File:ALiAS_Logo.png">@parthsharma2</a> under
+            <b>CC BY-SA License</b>.
+            <br>
+            License of dependencies like Angular, & Bootstrap and nodejs dependencies are mentioned in
+            the documentation of the dependencies themselves.
+        </div>
+    </div>
+</div>

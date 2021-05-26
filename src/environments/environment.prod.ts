@@ -1,3 +1,6 @@
+import { app } from './common'
+
 export const environment = {
-  production: true
+  production: true,
+  app
 };

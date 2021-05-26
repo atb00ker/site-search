@@ -9,6 +9,13 @@ a { color: #013f82; }
 label { margin: 0; }
 .row { margin: auto! important; }
 
+.clipboard-button {
+    border: 0;
+    padding: 0;
+    background: transparent;
+    fill: inherit;
+}
+
 /* Scrollbar */
 
 :root{
