@@ -7,7 +7,7 @@
         "tags": [
             "icons",
             "svg-icons",
-            "png-icons",
+            "jpg-icons",
             "illustrations",
             "web-designing",
             "free"
@@ -16,12 +16,12 @@
     {
         "title": "Google Icons",
         "description": "Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.",
-        "image": "./assets/images/sites/google-fonts.png",
+        "image": "./assets/images/sites/google-fonts.jpg",
         "link": "https://fonts.google.com/icons",
         "tags": [
             "icons",
             "svg-icons",
-            "png-icons",
+            "jpg-icons",
             "illustrations",
             "web-designing",
             "free"
@@ -30,7 +30,7 @@
     {
         "title": "Undraw",
         "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
-        "image": "./assets/images/sites/undraw.png",
+        "image": "./assets/images/sites/undraw.jpg",
         "link": "https://undraw.co",
         "tags": [
             "illustrations",
@@ -41,7 +41,7 @@
     {
         "title": "Scale",
         "description": "Royalty free Vector Illustrations for Commercial Use. One new high-quality, free illustration each day.",
-        "image": "./assets/images/sites/scale-flexiple.png",
+        "image": "./assets/images/sites/scale-flexiple.jpg",
         "link": "https://2.flexiple.com/scale/home",
         "tags": [
             "illustrations",
@@ -52,7 +52,7 @@
     {
         "title": "Pixlr",
         "description": "Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.",
-        "image": "./assets/images/sites/pixlr.png",
+        "image": "./assets/images/sites/pixlr.jpg",
         "link": "https://pixlr.com",
         "tags": [
             "graphic-designing",
@@ -80,7 +80,7 @@
     {
         "title": "The Better Home",
         "description": "The Better Home is a range of natural cleaning products built on the belief that you should not have to choose between what’s effective, what’s good for you, and what’s good for the planet.",
-        "image": "./assets/images/sites/the-better-home.png",
+        "image": "./assets/images/sites/the-better-home.jpg",
         "link": "https://shop.thebetterindia.com",
         "tags": [
             "environment",
@@ -91,7 +91,7 @@
     {
         "title": "Privacy tools",
         "description": "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.",
-        "image": "./assets/images/sites/privacytoolsio.png",
+        "image": "./assets/images/sites/privacytoolsio.jpg",
         "link": "https://privacytools.io/",
         "tags": [
             "privacy"
@@ -100,7 +100,7 @@
     {
         "title": "NetGuard",
         "description": "NetGuard provides simple and advanced ways to block access to the internet - no root required.",
-        "image": "./assets/images/sites/netguard.png",
+        "image": "./assets/images/sites/netguard.jpg",
         "link": "https://privacytools.io/",
         "tags": [
             "privacy",
@@ -111,7 +111,7 @@
     {
         "title": "Bouncer",
         "description": "Bouncer gives you the ability to grant permissions to any application temporarily.",
-        "image": "./assets/images/sites/bouncer.png",
+        "image": "./assets/images/sites/bouncer.jpg",
         "link": "https://play.google.com/store/apps/details?id=com.samruston.permission",
         "tags": [
             "privacy",
