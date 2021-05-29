@@ -1,0 +1,758 @@
+[
+    {
+        "description": "Range of Teas",
+        "id": 668,
+        "name": "aarambh",
+        "relationship": "in-store brands",
+        "votes": 697
+    },
+    {
+        "description": "Established in 1976, ADIA is a globally-diversified investment institution that prudently invests funds on behalf of the Government of Abu Dhabi through a strategy focused on long\u2011term value creation.",
+        "id": 675,
+        "name": "abu dhabi investment company",
+        "relationship": "investor in jio",
+        "votes": 464
+    },
+    {
+        "description": "Entertainment Brand",
+        "id": 688,
+        "name": "a+e network",
+        "relationship": "entertainment partnerships",
+        "votes": 243
+    },
+    {
+        "description": "Curated online fashion store",
+        "id": 693,
+        "name": "ajio.com",
+        "relationship": "retail owned brands",
+        "votes": 441
+    },
+    {
+        "description": "Global brand ownership and marketing organisation",
+        "id": 678,
+        "name": "apex global brands",
+        "relationship": "retail partnerships",
+        "votes": 151
+    },
+    {
+        "description": "Casual Wear, Denims",
+        "id": 666,
+        "name": "armani exchange",
+        "relationship": "retail partnerships",
+        "votes": 730
+    },
+    {
+        "description": "Ethnic Indianwear inspired by Indian ethos and art forms",
+        "id": 681,
+        "name": "avaasa",
+        "relationship": "in-store brands",
+        "votes": 153
+    },
+    {
+        "description": "World\u2019s second oldest luxury brand",
+        "id": 692,
+        "name": "bally",
+        "relationship": "retail partnerships",
+        "votes": 137
+    },
+    {
+        "description": "Magazine",
+        "id": 728,
+        "name": "better interiors",
+        "relationship": "entertainment partnerships",
+        "votes": 119
+    },
+    {
+        "description": "Men's Wear, Formal and Semi Formal",
+        "id": 669,
+        "name": "boss hugo boss",
+        "relationship": "retail partnerships",
+        "votes": 474
+    },
+    {
+        "description": "Luxury Bags, Shoes, Accessories",
+        "id": 696,
+        "name": "bottega veneta",
+        "relationship": "retail partnerships",
+        "votes": 157
+    },
+    {
+        "description": "Iconic American brand",
+        "id": 671,
+        "name": "brooks brothers",
+        "relationship": "retail partnerships",
+        "votes": 160
+    },
+    {
+        "description": "Luxury ready to wear and accessories",
+        "id": 683,
+        "name": "burberry",
+        "relationship": "retail partnerships",
+        "votes": 513
+    },
+    {
+        "description": "Men's Formal Wear",
+        "id": 705,
+        "name": "canali",
+        "relationship": "retail partnerships",
+        "votes": 81
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 703,
+        "name": "cartoon network",
+        "relationship": "entertainment partnerships",
+        "votes": 304
+    },
+    {
+        "description": "News Brand",
+        "id": 794,
+        "name": "cnbc",
+        "relationship": "news partnerships",
+        "votes": 121
+    },
+    {
+        "description": "News Channel",
+        "id": 673,
+        "name": "cnbc tv-18",
+        "relationship": "digital services",
+        "votes": 118
+    },
+    {
+        "description": "News Channel",
+        "id": 684,
+        "name": "cnn news 18",
+        "relationship": "digital services",
+        "votes": 188
+    },
+    {
+        "description": "Bags & Accessories",
+        "id": 670,
+        "name": "coach",
+        "relationship": "retail partnerships",
+        "votes": 287
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 677,
+        "name": "colors",
+        "relationship": "entertainment partnerships",
+        "votes": 165
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 751,
+        "name": "colors cineplex",
+        "relationship": "entertainment partnerships",
+        "votes": 105
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 784,
+        "name": "colors infinity",
+        "relationship": "entertainment partnerships",
+        "votes": 74
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 783,
+        "name": "colors rishtey",
+        "relationship": "entertainment partnerships",
+        "votes": 123
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 782,
+        "name": "colors super",
+        "relationship": "entertainment partnerships",
+        "votes": 35
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 781,
+        "name": "comedy central",
+        "relationship": "entertainment partnerships",
+        "votes": 128
+    },
+    {
+        "description": "American Sportswear brand",
+        "id": 747,
+        "name": "dc",
+        "relationship": "retail partnerships",
+        "votes": 101
+    },
+    {
+        "description": "Iconic Italian lifestyle brand",
+        "id": 691,
+        "name": "diesel",
+        "relationship": "retail partnerships",
+        "votes": 137
+    },
+    {
+        "description": "Entertainment Brand",
+        "id": 679,
+        "name": "disney",
+        "relationship": "entertainment partnerships",
+        "votes": 193
+    },
+    {
+        "description": "Denim inspired casuals",
+        "id": 687,
+        "name": "dnmx",
+        "relationship": "in-store brands",
+        "votes": 61
+    },
+    {
+        "description": "Distinctive Fashion Footwear & Accessories",
+        "id": 702,
+        "name": "dune london",
+        "relationship": "retail partnerships",
+        "votes": 67
+    },
+    {
+        "description": "Luxury Men's Wear and Women's Wear",
+        "id": 715,
+        "name": "emporio armani",
+        "relationship": "retail partnerships",
+        "votes": 97
+    },
+    {
+        "description": "Matic Detergents",
+        "id": 792,
+        "name": "enzo matic",
+        "relationship": "in-store brands",
+        "votes": 19
+    },
+    {
+        "description": "Italian luxury Men\u2019s clothing",
+        "id": 740,
+        "name": "ermenegildo zegna",
+        "relationship": "retail partnerships",
+        "votes": 39
+    },
+    {
+        "description": "Facebook, Inc. is an American technology conglomerate based in Menlo Park, California.",
+        "id": 665,
+        "name": "facebook",
+        "relationship": "investor in jio",
+        "votes": 1100
+    },
+    {
+        "description": "Leading Beauty & Colour Cosmetic brand",
+        "id": 721,
+        "name": "flormar",
+        "relationship": "retail partnerships",
+        "votes": 39
+    },
+    {
+        "description": "Magazine",
+        "id": 769,
+        "name": "forbes india",
+        "relationship": "news partnerships",
+        "votes": 44
+    },
+    {
+        "description": "An Italian Denim brand",
+        "id": 707,
+        "name": "gas",
+        "relationship": "retail partnerships",
+        "votes": 42
+    },
+    {
+        "description": "Luxury Men's Wear and Women's Wear",
+        "id": 727,
+        "name": "giorgio armani",
+        "relationship": "retail partnerships",
+        "votes": 107
+    },
+    {
+        "description": "Full range grocery brand",
+        "id": 676,
+        "name": "good life",
+        "relationship": "in-store brands",
+        "votes": 190
+    },
+    {
+        "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware.",
+        "id": 667,
+        "name": "google",
+        "relationship": "investor in jio",
+        "votes": 317
+    },
+    {
+        "description": "Denim, Casual Wear",
+        "id": 701,
+        "name": "g-star raw",
+        "relationship": "retail partnerships",
+        "votes": 79
+    },
+    {
+        "description": "The finest Toy shop in the World",
+        "id": 716,
+        "name": "hamleys",
+        "relationship": "retail partnerships",
+        "votes": 53
+    },
+    {
+        "description": "Healthy breakfast",
+        "id": 704,
+        "name": "healthylife",
+        "relationship": "in-store brands",
+        "votes": 55
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 750,
+        "name": "history channel",
+        "relationship": "entertainment partnerships",
+        "votes": 47
+    },
+    {
+        "description": "Leading European Lingerie brand",
+        "id": 726,
+        "name": "hunkemoller",
+        "relationship": "retail partnerships",
+        "votes": 21
+    },
+    {
+        "description": "Diversified portfolio of fashion and home brands",
+        "id": 734,
+        "name": "iconix",
+        "relationship": "retail partnerships",
+        "votes": 18
+    },
+    {
+        "description": "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, in Silicon Valley.",
+        "id": 690,
+        "name": "intel",
+        "relationship": "investor in jio",
+        "votes": 53
+    },
+    {
+        "description": "Women's Footwear and Accessories",
+        "id": 680,
+        "name": "jimmy choo",
+        "relationship": "retail partnerships",
+        "votes": 227
+    },
+    {
+        "description": "Reliance Jio Infocomm Limited, d/b/a Jio, is an Indian telecommunications company and a subsidiary of Jio Platforms, headquartered in Mumbai, Maharashtra, India.",
+        "id": 797,
+        "name": "jio",
+        "relationship": "subsidiary",
+        "votes": 347
+    },
+    {
+        "description": "Menswear Fashion Brand",
+        "id": 743,
+        "name": "john players",
+        "relationship": "in-store brands",
+        "votes": 38
+    },
+    {
+        "description": "Accessible luxury for Women",
+        "id": 674,
+        "name": "kate spade",
+        "relationship": "retail partnerships",
+        "votes": 178
+    },
+    {
+        "description": "KKR & Co. Inc. is an American global investment company that manages multiple alternative asset classes",
+        "id": 790,
+        "name": "kkr",
+        "relationship": "investor in jio",
+        "votes": 29
+    },
+    {
+        "description": "British footwear and accessories brand",
+        "id": 699,
+        "name": "kurt geiger",
+        "relationship": "retail partnerships",
+        "votes": 29
+    },
+    {
+        "description": "L Catterton is an American private equity company based in Greenwich, Connecticut with over $20 billion of equity capital.",
+        "id": 768,
+        "name": "l catterton",
+        "relationship": "investor in jio",
+        "votes": 34
+    },
+    {
+        "description": "4G Mobile Handsets and Connectivity Devices",
+        "id": 773,
+        "name": "lyf",
+        "relationship": "in-store brands",
+        "votes": 195
+    },
+    {
+        "description": "Iconic British lifestyle brand",
+        "id": 682,
+        "name": "marks & spencer",
+        "relationship": "retail partnerships",
+        "votes": 115
+    },
+    {
+        "description": "Bags, Footwear and Accessories",
+        "id": 685,
+        "name": "michael kors",
+        "relationship": "retail partnerships",
+        "votes": 110
+    },
+    {
+        "description": "British retail brand specialising in products for expecting mother and kids",
+        "id": 748,
+        "name": "mothercare",
+        "relationship": "retail partnerships",
+        "votes": 35
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 735,
+        "name": "mtv beats",
+        "relationship": "entertainment partnerships",
+        "votes": 33
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 749,
+        "name": "mtv india",
+        "relationship": "entertainment partnerships",
+        "votes": 61
+    },
+    {
+        "description": "Mubadala Investment Company PJSC is an Emirati state-owned holding company that can be characterized as a sovereign wealth fund",
+        "id": 730,
+        "name": "mubadala investment company",
+        "relationship": "investor in jio",
+        "votes": 13
+    },
+    {
+        "description": "Iconic Japanese lifestyle brand",
+        "id": 694,
+        "name": "muji",
+        "relationship": "retail partnerships",
+        "votes": 121
+    },
+    {
+        "description": "Smart casuals for the free spirited",
+        "id": 796,
+        "name": "netplay",
+        "relationship": "in-store brands",
+        "votes": 58
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 712,
+        "name": "nickelodeon",
+        "relationship": "entertainment partnerships",
+        "votes": 44
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 719,
+        "name": "nick jr.",
+        "relationship": "entertainment partnerships",
+        "votes": 31
+    },
+    {
+        "description": "Magazine",
+        "id": 791,
+        "name": "overdrive",
+        "relationship": "entertainment partnerships",
+        "votes": 29
+    },
+    {
+        "description": "Italian luxury & casual sportswear brand",
+        "id": 739,
+        "name": "paul&shark",
+        "relationship": "retail partnerships",
+        "votes": 13
+    },
+    {
+        "description": "Men's Formal Wear",
+        "id": 729,
+        "name": "paul smith",
+        "relationship": "retail partnerships",
+        "votes": 14
+    },
+    {
+        "description": "Affordable footwear speciality store",
+        "id": 717,
+        "name": "payless shoesource",
+        "relationship": "retail partnerships",
+        "votes": 68
+    },
+    {
+        "description": "Activewear for sports and fitness",
+        "id": 774,
+        "name": "performax",
+        "relationship": "in-store brands",
+        "votes": 28
+    },
+    {
+        "description": "Smart casuals for kids inspired by California",
+        "id": 795,
+        "name": "point cove",
+        "relationship": "in-store brands",
+        "votes": 17
+    },
+    {
+        "description": "Home Furnishings & Decor",
+        "id": 713,
+        "name": "potterybarn",
+        "relationship": "retail partnerships",
+        "votes": 51
+    },
+    {
+        "description": "Home furnishings & Decor for Kids",
+        "id": 737,
+        "name": "pottery barn kids",
+        "relationship": "retail partnerships",
+        "votes": 30
+    },
+    {
+        "description": "The Public Investment Fund is the sovereign wealth fund of Saudi Arabia.",
+        "id": 709,
+        "name": "public investment fund of saudi arabia",
+        "relationship": "investor in jio",
+        "votes": 34
+    },
+    {
+        "description": "Qualcomm is an American public multinational corporation headquartered in San Diego, California, and incorporated in Delaware.",
+        "id": 672,
+        "name": "qualcomm",
+        "relationship": "investor in jio",
+        "votes": 114
+    },
+    {
+        "description": "Exclusive Brand from Reliance Digital",
+        "id": 736,
+        "name": "reconnect",
+        "relationship": "in-store brands",
+        "votes": 28
+    },
+    {
+        "description": "Electronics speciality store",
+        "id": 776,
+        "name": "reliance digital",
+        "relationship": "retail owned brands",
+        "votes": 106
+    },
+    {
+        "description": "Neighbourhood store",
+        "id": 698,
+        "name": "reliance fresh",
+        "relationship": "retail owned brands",
+        "votes": 87
+    },
+    {
+        "description": "Jewellery speciality store",
+        "id": 785,
+        "name": "reliance jewels",
+        "relationship": "retail owned brands",
+        "votes": 44
+    },
+    {
+        "description": "Cash & Carry store",
+        "id": 700,
+        "name": "reliance market",
+        "relationship": "retail owned brands",
+        "votes": 53
+    },
+    {
+        "description": "Consumer electronics after sales service provider",
+        "id": 775,
+        "name": "reliance resq digital service center",
+        "relationship": "retail owned brands",
+        "votes": 80
+    },
+    {
+        "description": "Supermarket",
+        "id": 722,
+        "name": "reliance smart",
+        "relationship": "retail owned brands",
+        "votes": 86
+    },
+    {
+        "description": "Iconic European denim brand",
+        "id": 738,
+        "name": "replay",
+        "relationship": "retail partnerships",
+        "votes": 28
+    },
+    {
+        "description": "Italian luxury brand",
+        "id": 753,
+        "name": "salvatore ferragamo",
+        "relationship": "retail partnerships",
+        "votes": 40
+    },
+    {
+        "description": "Premium ethnic wear and accessories",
+        "id": 732,
+        "name": "satyapaul",
+        "relationship": "retail partnerships",
+        "votes": 53
+    },
+    {
+        "description": "European Couture brand",
+        "id": 752,
+        "name": "scotch & soda",
+        "relationship": "retail partnerships",
+        "votes": 21
+    },
+    {
+        "description": "Silver Lake is a global private equity firm focused on investments in technology, technology-enabled and related industries.",
+        "id": 745,
+        "name": "silver lake partners",
+        "relationship": "investor in jio",
+        "votes": 21
+    },
+    {
+        "description": "Mid-meal Snack solutions for anytime hunger",
+        "id": 744,
+        "name": "snactac",
+        "relationship": "in-store brands",
+        "votes": 83
+    },
+    {
+        "description": "Footwear & Accessories brand",
+        "id": 720,
+        "name": "steve madden",
+        "relationship": "retail partnerships",
+        "votes": 148
+    },
+    {
+        "description": "British International brand",
+        "id": 718,
+        "name": "superdry",
+        "relationship": "retail partnerships",
+        "votes": 143
+    },
+    {
+        "description": "Sport Inspired Casualwear",
+        "id": 770,
+        "name": "teamspirit",
+        "relationship": "in-store brands",
+        "votes": 31
+    },
+    {
+        "description": "Iconic American Jewellery brand",
+        "id": 689,
+        "name": "tiffany co",
+        "relationship": "retail partnerships",
+        "votes": 61
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 780,
+        "name": "toonami",
+        "relationship": "entertainment partnerships",
+        "votes": 43
+    },
+    {
+        "description": "TPG Capital, previously known as Texas Pacific Group, is an American investment company.",
+        "id": 706,
+        "name": "tpg capital",
+        "relationship": "investor in jio",
+        "votes": 37
+    },
+    {
+        "description": "Apparel speciality store",
+        "id": 710,
+        "name": "trends",
+        "relationship": "retail owned brands",
+        "votes": 45
+    },
+    {
+        "description": "Women apparel store",
+        "id": 772,
+        "name": "trends woman",
+        "relationship": "retail owned brands",
+        "votes": 50
+    },
+    {
+        "description": "Travel Bags Wallets and Bags",
+        "id": 746,
+        "name": "tumi",
+        "relationship": "retail partnerships",
+        "votes": 43
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 779,
+        "name": "vh1",
+        "relationship": "entertainment partnerships",
+        "votes": 40
+    },
+    {
+        "description": "Entertainment Brand",
+        "id": 711,
+        "name": "viacom18",
+        "relationship": "entertainment partnerships",
+        "votes": 51
+    },
+    {
+        "description": "Entertainment Brand",
+        "id": 777,
+        "name": "viacomcbs",
+        "relationship": "entertainment partnerships",
+        "votes": 39
+    },
+    {
+        "description": "Tableware",
+        "id": 771,
+        "name": "villeroy & boch",
+        "relationship": "retail partnerships",
+        "votes": 54
+    },
+    {
+        "description": "Entertainment Brand",
+        "id": 708,
+        "name": "virgin media",
+        "relationship": "entertainment partnerships",
+        "votes": 121
+    },
+    {
+        "description": "Optical Speciality store",
+        "id": 731,
+        "name": "vision express",
+        "relationship": "retail partnerships",
+        "votes": 74
+    },
+    {
+        "description": "Vista Equity Partners is an American investment firm focused on financing and forwarding software, data and technology-enabled startup businesses.",
+        "id": 697,
+        "name": "vista equity partners",
+        "relationship": "investor in jio",
+        "votes": 52
+    },
+    {
+        "description": "Entertainment Channel",
+        "id": 778,
+        "name": "voot",
+        "relationship": "entertainment partnerships",
+        "votes": 86
+    },
+    {
+        "description": "Entertainment Brand",
+        "id": 695,
+        "name": "warner bros.",
+        "relationship": "entertainment partnerships",
+        "votes": 152
+    },
+    {
+        "description": "Furniture & Home Decor",
+        "id": 723,
+        "name": "west elm",
+        "relationship": "retail partnerships",
+        "votes": 78
+    },
+    {
+        "description": "Italian men's cosmetics and grooming brand",
+        "id": 724,
+        "name": "womo & bullfrog",
+        "relationship": "retail partnerships",
+        "votes": 113
+    }
+]

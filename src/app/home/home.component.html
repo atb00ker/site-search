@@ -4,25 +4,28 @@
             <h1 id='page-title'>{{ pageTitle }}</h1>
         </div>
     </div>
-    <div class="row" *ngIf="!selectedCategory">
-        <div class="col-xs-12 col-lg-6" *ngFor="let category of categories;">
-            <div class="card mt-4">
-                <a (click)="selectCategory(category.tag)" class="text-muted" data-abc="true">
-                    <div class="card-body">
-                        <div class="d-flex align-items-center">
-                            <div class="card-image text-white {{ category.theme }}">
-                                <svg xmlns="http://www.w3.org/2000/svg" height="24px"
-                                    [attr.viewBox]="category.iconViewbox" width="24px" fill="#ffffff">
-                                    <path [attr.d]="category.icon" />
-                                </svg>
-                            </div>
-                            <div class="card-text-container">
-                                <div>{{ category.title }}</div>
-                                <div class="card-description">{{ category.description }}</div>
+    <div class="mb-5" *ngIf="!selectedCategory">
+        <div class="row">
+            <div class="col-xs-12 col-lg-6" *ngFor="let category of categories;">
+                <div class="card mt-2">
+                    <a (click)="selectCategory(category.tag)" class="text-muted" data-abc="true">
+                        <div class="card-body">
+                            <div class="d-flex align-items-center">
+                                <div class="card-image text-white {{ category.theme }}">
+                                    <svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                                        [attr.viewBox]="category.iconViewbox" width="24px" fill="#ffffff">
+                                        <path [attr.d]="category.icon" />
+                                    </svg>
+                                </div>
+                                <div class="card-text-container">
+                                    <div [title]="category.title">{{ category.title }}</div>
+                                    <div [title]="category.description" class="card-description">{{ category.description
+                                        }}</div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </a>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
@@ -63,7 +66,8 @@
             </div>
         </div>
         <div class="row">
-            <div class="p-1 col-6 col-sm-4 col-md-3 col-lg-2 col-xl-2 mt-3" *ngFor="let pebble of filteredPebbles;">
+            <div class="col-12 mt-3"></div>
+            <div class="p-1 col-6 col-sm-4 col-md-3 col-lg-2 col-xl-2" *ngFor="let pebble of filteredPebbles;">
                 <a href="{{ pebble.link }}" target="_blank"
                     title="Name: {{ pebble.title }}&#010;Tags: {{ pebble.tags.join(', ') }}" type="button"
                     class="site-pebble btn btn-outline-primary">
