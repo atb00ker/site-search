@@ -186,6 +186,15 @@
         ]
     },
     {
+        "title": "Smart Wallpaper",
+        "link": "https://smart-wallpaper.en.uptodown.com/android/download",
+        "tags": [
+            "android",
+            "tools",
+            "free"
+        ]
+    },
+    {
         "title": "Bouncer",
         "description": "Bouncer gives you the ability to grant permissions to any application temporarily.",
         "image": "./assets/images/sites/bouncer.jpg",
