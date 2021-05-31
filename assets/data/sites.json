@@ -666,6 +666,13 @@
         ]
     },
     {
+        "title": "Image Placeholder",
+        "link": "https://placeholder.com/",
+        "tags": [
+            "web-designing"
+        ]
+    },
+    {
         "title": "Crowd Size Estimation",
         "description": "This tool helps you estimate and fact-check the maximum number of people standing in a given area.",
         "image": "https://www.mapchecking.com/socialimage.png",
