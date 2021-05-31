@@ -621,6 +621,20 @@
         ]
     },
     {
+        "title": "Doodle",
+        "description": "Book multi-timezone meetings faster with doodle meeting scheduler.",
+        "image": "./assets/images/sites/doodle.jpg",
+        "link": "https://doodle.com/",
+        "tags": [
+            "international-teams",
+            "productivity-tools",
+            "freemium",
+            "tools",
+            "work",
+            "free"
+        ]
+    },
+    {
         "title": "Ooni | Probe",
         "description": "Measure internet censorship. Check how much data and in which caterories your ISP and country is blocking.",
         "image": "./assets/images/sites/ooni.jpg",
@@ -677,6 +691,13 @@
     {
         "title": "Image Placeholder",
         "link": "https://placeholder.com/",
+        "tags": [
+            "web-designing"
+        ]
+    },
+    {
+        "title": "HTML Balancer",
+        "link": "https://jonaquino.blogspot.com/2013/05/unclosed-tag-finder.html",
         "tags": [
             "web-designing"
         ]
