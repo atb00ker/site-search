@@ -6,6 +6,7 @@
         "link": "https://sdgs.un.org/goals",
         "tags": [
             "environment",
+            "global-issues",
             "un"
         ]
     },
@@ -25,7 +26,8 @@
         "image": "./assets/images/sites/teamtrees.jpg",
         "link": "https://teamtrees.org/",
         "tags": [
-            "environment"
+            "environment",
+            "global-issues"
         ]
     },
     {
@@ -36,6 +38,22 @@
         "tags": [
             "education",
             "free"
+        ]
+    },
+    {
+        "title": "TED Talks",
+        "description": "TED is a nonprofit devoted to spreading ideas, usually in the form of short, powerful talks.",
+        "image": "./assets/images/sites/tedtalks.jpg",
+        "link": "https://www.ted.com/talks",
+        "tags": [
+            "ideas",
+            "science",
+            "business",
+            "curiosity",
+            "education",
+            "technology",
+            "entertainment",
+            "global-issues"
         ]
     },
     {
@@ -254,9 +272,11 @@
         "image": "./assets/images/sites/yt-rareearth.png",
         "link": "https://www.youtube.com/channel/UCtGG8ucQgEJPeUPhJZ4M4jA",
         "tags": [
+            "ideas",
+            "world",
             "youtube",
             "history",
-            "world"
+            "curiosity"
         ]
     },
     {
@@ -265,9 +285,11 @@
         "image": "./assets/images/sites/kurzgesagt.jpg",
         "link": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
         "tags": [
+            "ideas",
             "youtube",
             "science",
             "education",
+            "curiosity",
             "philosophy",
             "existentialism"
         ]
@@ -278,8 +300,10 @@
         "image": "./assets/images/sites/teded.jpg",
         "link": "https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA",
         "tags": [
+            "ideas",
             "youtube",
-            "education"
+            "education",
+            "curiosity"
         ]
     },
     {
@@ -288,8 +312,10 @@
         "image": "./assets/images/sites/schooloflife.jpg",
         "link": "https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog",
         "tags": [
+            "ideas",
             "youtube",
             "education",
+            "curiosity",
             "philosophy",
             "personal-growth"
         ]
@@ -301,7 +327,8 @@
         "link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
         "tags": [
             "youtube",
-            "education"
+            "education",
+            "curiosity"
         ]
     },
     {
@@ -316,8 +343,10 @@
         "title": "Veritasium",
         "link": "https://www.youtube.com/c/veritasium",
         "tags": [
+            "ideas",
             "youtube",
             "science",
+            "curiosity",
             "engineering"
         ]
     },
@@ -327,6 +356,7 @@
         "tags": [
             "youtube",
             "science",
+            "curiosity",
             "engineering"
         ]
     },
@@ -335,7 +365,8 @@
         "link": "https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w",
         "tags": [
             "youtube",
-            "science"
+            "science",
+            "curiosity"
         ]
     },
     {
@@ -345,14 +376,6 @@
             "youtube",
             "science",
             "engineering"
-        ]
-    },
-    {
-        "title": "JerryRigEverything",
-        "link": "https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ",
-        "tags": [
-            "youtube",
-            "technology"
         ]
     },
     {
