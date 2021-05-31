@@ -5,8 +5,8 @@
 import { app } from './common';
 
 export const environment = {
-  production: false,
-  app
+  app,
+  production: false
 };
 
 /*
