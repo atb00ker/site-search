@@ -816,5 +816,43 @@
         "tags": [
             "monopoly"
         ]
+    },
+    {
+        "title": "RemoveBG",
+        "link": "https://www.remove.bg/",
+        "tags": [
+            "photo-editing",
+            "tools",
+            "free"
+        ]
+    },
+    {
+        "title": "RedAct",
+        "link": "https://redact.dev/",
+        "tags": [
+            "privacy",
+            "tools",
+            "free"
+        ]
+    },
+    {
+        "title": "Truth Table Generator",
+        "link": "https://trutabgen.com/",
+        "tags": [
+            "software-development",
+            "tools",
+            "free"
+        ]
+    },
+    {
+        "title": "CryptPad",
+        "link": "https://cryptpad.fr/",
+        "tags": [
+            "privacy",
+            "software",
+            "encrypted",
+            "tools",
+            "free"
+        ]
     }
 ]
