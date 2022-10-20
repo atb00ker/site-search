@@ -1,186 +1,20 @@
 [
     {
-        "title": "UNSD Goals",
-        "description": "The 2030 Agenda for Sustainable Development, adopted by all UN Member States in 2015.",
-        "image": "./assets/images/sites/unsdg.jpg",
-        "link": "https://sdgs.un.org/goals",
+        "title": "3Blue1Brown",
+        "description": "3Blue1Brown, by Grant Sanderson, is some combination of math and entertainment.",
+        "image": "./assets/images/sites/3blue1brown.jpg",
+        "link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
         "tags": [
-            "environment",
-            "global-issues",
-            "un"
-        ]
-    },
-    {
-        "title": "The Better Home",
-        "description": "The Better Home is a range of natural cleaning products built on the belief that you should not have to choose between what’s effective, what’s good for you, and what’s good for the planet.",
-        "image": "./assets/images/sites/the-better-home.jpg",
-        "link": "https://shop.thebetterindia.com",
-        "tags": [
-            "environment",
-            "india-only"
-        ]
-    },
-    {
-        "title": "Team Trees",
-        "description": "1 Dollar = 1 Tree. Donate to plant a tree.",
-        "image": "./assets/images/sites/teamtrees.jpg",
-        "link": "https://teamtrees.org/",
-        "tags": [
-            "environment",
-            "global-issues"
-        ]
-    },
-    {
-        "title": "Khan Academy",
-        "description": "Covers plathora of subjects, for school students and adults, all free of charge to anyone, anywhere.",
-        "image": "./assets/images/sites/khanacademy.jpg",
-        "link": "https://www.khanacademy.org/",
-        "tags": [
+            "youtube",
             "education",
-            "free"
+            "curiosity"
         ]
     },
     {
-        "title": "TED Talks",
-        "description": "TED is a nonprofit devoted to spreading ideas, usually in the form of short, powerful talks.",
-        "image": "./assets/images/sites/tedtalks.jpg",
-        "link": "https://www.ted.com/talks",
+        "title": "ASLMeredith",
+        "link": "https://www.youtube.com/channel/UCsuBAbMlPGJ95w3mwhz-30g",
         "tags": [
-            "ideas",
-            "science",
-            "business",
-            "curiosity",
-            "education",
-            "technology",
-            "entertainment",
-            "global-issues"
-        ]
-    },
-    {
-        "title": "Poynter",
-        "description": "A Short Course on Hands-on Fact-checking to beat fake news.",
-        "image": "https://www.poynter.org/wp-content/uploads/2019/06/hands-on-fact-checking-english.png",
-        "link": "https://www.poynter.org/shop/fact-checking/handson-factchecking/",
-        "tags": [
-            "education",
-            "journalism",
-            "fack-checking",
-            "free"
-        ]
-    },
-    {
-        "title": "Skill Share",
-        "link": "https://www.skillshare.com/",
-        "tags": [
-            "education",
-            "paid"
-        ]
-    },
-    {
-        "title": "Coursera",
-        "link": "https://www.coursera.org/",
-        "tags": [
-            "education",
-            "paid",
-            "free"
-        ]
-    },
-    {
-        "title": "Pluralsight",
-        "link": "https://www.pluralsight.com/",
-        "tags": [
-            "education",
-            "paid"
-        ]
-    },
-    {
-        "title": "Udacity",
-        "link": "https://www.udacity.com/",
-        "tags": [
-            "education",
-            "paid"
-        ]
-    },
-    {
-        "title": "Udemy",
-        "link": "https://www.udemy.com/",
-        "tags": [
-            "education",
-            "paid"
-        ]
-    },
-    {
-        "title": "Our world in data",
-        "description": "Our world represented in graphs and data by researhers and experts.",
-        "image": "./assets/images/sites/ourworldindata.jpg",
-        "link": "https://ourworldindata.org/",
-        "tags": [
-            "research-n-data",
-            "charts",
-            "graphs",
-            "free"
-        ]
-    },
-    {
-        "title": "Data Commons",
-        "description": "Data Commons is an open knowledge repository that combines data from public datasets using mapped common entities. ",
-        "image": "./assets/images/sites/datacommons.jpg",
-        "link": "https://datacommons.org/",
-        "tags": [
-            "research-n-data",
-            "charts",
-            "graphs",
-            "free"
-        ]
-    },
-    {
-        "title": "Spurious Correlations",
-        "description": "Charts proving blind trust on data is wrong, data can be tortured to confess to anything.",
-        "image": "./assets/images/sites/spurious-correlations.svg",
-        "link": "http://www.tylervigen.com/spurious-correlations",
-        "tags": [
-            "research-n-data",
-            "charts",
-            "graphs"
-        ]
-    },
-    {
-        "title": "Privacy tools",
-        "description": "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.",
-        "image": "./assets/images/sites/privacytoolsio.jpg",
-        "link": "https://privacytools.io/",
-        "tags": [
-            "privacy",
-            "research-n-data"
-        ]
-    },
-    {
-        "title": "Tails OS",
-        "link": "https://tails.boum.org/",
-        "tags": [
-            "privacy",
-            "operating-system",
-            "OS"
-        ]
-    },
-    {
-        "title": "Tutanota",
-        "link": "https://tutanota.com/pricing/",
-        "tags": [
-            "privacy",
-            "paid"
-        ]
-    },
-    {
-        "title": "Just delete me",
-        "description": "Find the steps to delete your online profiles that you do not intend to use.",
-        "image": "./assets/images/sites/justdeleteme.jpg",
-        "link": "https://backgroundchecks.org/justdeleteme/#",
-        "tags": [
-            "privacy",
-            "browser-extension",
-            "chrome-extension",
-            "tools"
+            "accessibility"
         ]
     },
     {
@@ -192,23 +26,60 @@
         ]
     },
     {
-        "title": "NetGuard",
-        "description": "NetGuard provides simple and advanced ways to block access to the internet - no root required.",
-        "image": "./assets/images/sites/netguard.jpg",
-        "link": "https://privacytools.io/",
+        "title": "AlgoExpert",
+        "link": "https://www.algoexpert.io/",
         "tags": [
-            "privacy",
-            "android",
-            "tools",
-            "free"
+            "software-development",
+            "competitive-coding",
+            "paid"
         ]
     },
     {
-        "title": "Smart Wallpaper",
-        "link": "https://smart-wallpaper.en.uptodown.com/android/download",
+        "title": "Augmented Steam",
+        "description": "Browser extension to improve your browsing and shopping experience for Steam.",
+        "image": "./assets/images/sites/augmentedsteam.jpg",
+        "link": "https://augmentedsteam.com/",
         "tags": [
-            "android",
-            "tools",
+            "gaming",
+            "pc-gaming",
+            "browser-extension",
+            "firefox-extension",
+            "chrome-extension"
+        ]
+    },
+    {
+        "title": "BSBO",
+        "link": "https://www.youtube.com/channel/UCx8nY9DrRrV-_i7oJdBEZxA",
+        "tags": [
+            "news"
+        ]
+    },
+    {
+        "title": "Bisbo",
+        "link": "https://www.youtube.com/channel/UCRS07TwUdb9hTnnX0r5CuxA",
+        "tags": [
+            "news",
+            "india-only"
+        ]
+    },
+    {
+        "title": "Bootstrap",
+        "link": "https://getbootstrap.com/",
+        "tags": [
+            "css-library",
+            "web-designing"
+        ]
+    },
+    {
+        "title": "Bootstrap Icons",
+        "description": "Free, high quality, open source icon library with over 1,300 icons. SVGs, SVG sprite, or web fonts.",
+        "image": "./assets/images/sites/bootstrap-fonts.png",
+        "link": "https://icons.getbootstrap.com",
+        "tags": [
+            "icons",
+            "svg-icons",
+            "jpg-icons",
+            "web-designing",
             "free"
         ]
     },
@@ -225,34 +96,80 @@
         ]
     },
     {
-        "title": "Net Shutdowns",
-        "link": "https://internetshutdowns.in/",
+        "title": "Can I Use",
+        "description": "Detailed browser API support information",
+        "image": "./assets/images/sites/caniuse.jpg",
+        "link": "https://caniuse.com/",
+        "tags": [
+            "web-development",
+            "software-development",
+            "tools",
+            "free"
+        ]
+    },
+    {
+        "title": "Code with Mosh",
+        "description": "Master the Coding Skills to Become an Engineer Companies LOVE to Hire. *Free Content on YouTube.",
+        "image": "./assets/images/sites/codewithmosh.jpg",
+        "link": "https://codewithmosh.com/courses",
+        "tags": [
+            "software-development",
+            "software-development",
+            "education",
+            "youtube",
+            "paid",
+            "free"
+        ]
+    },
+    {
+        "title": "Color Tool",
+        "link": "https://material.io/resources/color/",
+        "tags": [
+            "web-designing",
+            "accessibility"
+        ]
+    },
+    {
+        "title": "Coursera",
+        "link": "https://www.coursera.org/",
+        "tags": [
+            "education",
+            "paid",
+            "free"
+        ]
+    },
+    {
+        "title": "Crowd Size Estimation",
+        "description": "This tool helps you estimate and fact-check the maximum number of people standing in a given area.",
+        "image": "https://www.mapchecking.com/socialimage.png",
+        "link": "https://www.mapchecking.com",
+        "tags": [
+            "journalism",
+            "fack-checking",
+            "misc"
+        ]
+    },
+    {
+        "title": "CryptPad",
+        "link": "https://cryptpad.fr/",
+        "tags": [
+            "privacy",
+            "software",
+            "encrypted",
+            "tools",
+            "free"
+        ]
+    },
+    {
+        "title": "Data Commons",
+        "description": "Data Commons is an open knowledge repository that combines data from public datasets using mapped common entities. ",
+        "image": "./assets/images/sites/datacommons.jpg",
+        "link": "https://datacommons.org/",
         "tags": [
             "research-n-data",
-            "internet-health",
-            "india-only"
-        ]
-    },
-    {
-        "title": "End of Life",
-        "description": "This site maintains quick links for checking End Of Life dates for various tools and technologies.",
-        "image": "./assets/images/sites/endoflife.jpg",
-        "link": "https://endoflife.date/",
-        "tags": [
-            "software-development",
-            "software"
-        ]
-    },
-    {
-        "title": "Techquickie",
-        "description": "With a mix of humor, cynicism, and insight, Techquickie brings you tech news.",
-        "image": "./assets/images/sites/yt-techquickie.png",
-        "link": "https://www.youtube.com/user/Techquickie",
-        "tags": [
-            "youtube",
-            "software-development",
-            "technology",
-            "news"
+            "charts",
+            "graphs",
+            "free"
         ]
     },
     {
@@ -267,16 +184,188 @@
         ]
     },
     {
-        "title": "Rare Earth",
-        "description": "I fly somewhere. I film it. I find cool stories about it, and write them down. Then I tell them to you.",
-        "image": "./assets/images/sites/yt-rareearth.png",
-        "link": "https://www.youtube.com/channel/UCtGG8ucQgEJPeUPhJZ4M4jA",
+        "title": "Doodle",
+        "description": "Book multi-timezone meetings faster with doodle meeting scheduler.",
+        "image": "./assets/images/sites/doodle.jpg",
+        "link": "https://doodle.com/",
         "tags": [
-            "ideas",
-            "world",
+            "international-teams",
+            "productivity-tools",
+            "freemium",
+            "tools",
+            "work",
+            "free"
+        ]
+    },
+    {
+        "title": "End of Life",
+        "description": "This site maintains quick links for checking End Of Life dates for various tools and technologies.",
+        "image": "./assets/images/sites/endoflife.jpg",
+        "link": "https://endoflife.date/",
+        "tags": [
+            "software-development",
+            "software"
+        ]
+    },
+    {
+        "title": "Epic Games",
+        "link": "https://www.epicgames.com/store/en-US/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "Fanatical",
+        "link": "https://www.fanatical.com/en/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "Faye D'Souza",
+        "description": "Faye D'Souza is an Indian journalist and a television news anchor.",
+        "image": "./assets/images/sites/fayedsouza.jpg",
+        "link": "https://www.youtube.com/channel/UCzI8K9xO_5E-4iCP7Km6cRQ",
+        "tags": [
+            "news",
             "youtube",
-            "history",
-            "curiosity"
+            "india-only"
+        ]
+    },
+    {
+        "title": "GOG",
+        "link": "https://www.gog.com/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "GOG Galaxy",
+        "description": "All the games from various stores in one place to organize the entire game library.",
+        "image": "./assets/images/sites/goggalaxy.jpg",
+        "link": "https://www.gog.com/galaxy",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "Geeks for Geeks",
+        "link": "https://www.geeksforgeeks.org/",
+        "tags": [
+            "software-development",
+            "competitive-coding",
+            "education"
+        ]
+    },
+    {
+        "title": "Google Icons",
+        "description": "Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.",
+        "image": "./assets/images/sites/google-fonts.jpg",
+        "link": "https://fonts.google.com/icons",
+        "tags": [
+            "icons",
+            "svg-icons",
+            "jpg-icons",
+            "web-designing",
+            "free"
+        ]
+    },
+    {
+        "title": "Green Man",
+        "link": "https://www.greenmangaming.com/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "HTML Balancer",
+        "link": "https://jonaquino.blogspot.com/2013/05/unclosed-tag-finder.html",
+        "tags": [
+            "web-designing"
+        ]
+    },
+    {
+        "title": "HackerEarth",
+        "link": "https://www.hackerearth.com/",
+        "tags": [
+            "software-development",
+            "competitive-coding"
+        ]
+    },
+    {
+        "title": "HackerRank",
+        "link": "https://www.hackerrank.com/",
+        "tags": [
+            "software-development",
+            "competitive-coding"
+        ]
+    },
+    {
+        "title": "Humble Bundle",
+        "link": "https://www.humblebundle.com/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "Image Placeholder",
+        "link": "https://placeholder.com/",
+        "tags": [
+            "web-designing"
+        ]
+    },
+    {
+        "title": "IndieGala",
+        "link": "https://www.indiegala.com/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "Just delete me",
+        "description": "Find the steps to delete your online profiles that you do not intend to use.",
+        "image": "./assets/images/sites/justdeleteme.jpg",
+        "link": "https://backgroundchecks.org/justdeleteme/#",
+        "tags": [
+            "privacy",
+            "browser-extension",
+            "chrome-extension",
+            "tools"
+        ]
+    },
+    {
+        "title": "Khan Academy",
+        "description": "Covers plathora of subjects, for school students and adults, all free of charge to anyone, anywhere.",
+        "image": "./assets/images/sites/khanacademy.jpg",
+        "link": "https://www.khanacademy.org/",
+        "tags": [
+            "education",
+            "free"
+        ]
+    },
+    {
+        "title": "Kingguin",
+        "link": "https://www.kinguin.net/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "Kismet",
+        "description": "Kismet is a wireless network and device detector, sniffer, wardriving tool, and WIDS framework.",
+        "image": "./assets/images/sites/kismet.jpg",
+        "link": "https://www.mapchecking.com",
+        "tags": [
+            "network-security",
+            "misc"
         ]
     },
     {
@@ -295,40 +384,11 @@
         ]
     },
     {
-        "title": "Ted Ed",
-        "description": "TED-Ed’s commitment to creating lessons worth sharing.",
-        "image": "./assets/images/sites/teded.jpg",
-        "link": "https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA",
+        "title": "LeetCode",
+        "link": "https://leetcode.com/",
         "tags": [
-            "ideas",
-            "youtube",
-            "education",
-            "curiosity"
-        ]
-    },
-    {
-        "title": "School of Life",
-        "description": "The School of Life is a collective of psychologists, philosophers and writers devoted to helping people lead calmer and more resilient lives.",
-        "image": "./assets/images/sites/schooloflife.jpg",
-        "link": "https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog",
-        "tags": [
-            "ideas",
-            "youtube",
-            "education",
-            "curiosity",
-            "philosophy",
-            "personal-growth"
-        ]
-    },
-    {
-        "title": "3Blue1Brown",
-        "description": "3Blue1Brown, by Grant Sanderson, is some combination of math and entertainment.",
-        "image": "./assets/images/sites/3blue1brown.jpg",
-        "link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
-        "tags": [
-            "youtube",
-            "education",
-            "curiosity"
+            "software-development",
+            "competitive-coding"
         ]
     },
     {
@@ -337,100 +397,6 @@
         "tags": [
             "youtube",
             "technology"
-        ]
-    },
-    {
-        "title": "Veritasium",
-        "link": "https://www.youtube.com/c/veritasium",
-        "tags": [
-            "ideas",
-            "youtube",
-            "science",
-            "curiosity",
-            "engineering"
-        ]
-    },
-    {
-        "title": "SmarterEveryDay",
-        "link": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA",
-        "tags": [
-            "youtube",
-            "science",
-            "curiosity",
-            "engineering"
-        ]
-    },
-    {
-        "title": " MinuteEarth ",
-        "link": "https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w",
-        "tags": [
-            "youtube",
-            "science",
-            "curiosity"
-        ]
-    },
-    {
-        "title": "Mark Rober",
-        "link": "https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg",
-        "tags": [
-            "youtube",
-            "science",
-            "engineering"
-        ]
-    },
-    {
-        "title": "exurb1a",
-        "link": "https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg",
-        "tags": [
-            "youtube",
-            "existentialism",
-            "philosophy"
-        ]
-    },
-    {
-        "title": "The Onion",
-        "link": "https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A",
-        "tags": [
-            "youtube",
-            "satire",
-            "comedy"
-        ]
-    },
-    {
-        "title": "Code with Mosh",
-        "description": "Master the Coding Skills to Become an Engineer Companies LOVE to Hire. *Free Content on YouTube.",
-        "image": "./assets/images/sites/codewithmosh.jpg",
-        "link": "https://codewithmosh.com/courses",
-        "tags": [
-            "software-development",
-            "software-development",
-            "education",
-            "youtube",
-            "paid",
-            "free"
-        ]
-    },
-    {
-        "title": "Steam DB",
-        "description": "This third-party tool gives you better insight into the Steam platform and everything in its database.",
-        "image": "./assets/images/sites/steamdb.jpg",
-        "link": "https://steamdb.info/",
-        "tags": [
-            "gaming",
-            "pc-gaming"
-        ]
-    },
-    {
-        "title": "Augmented Steam",
-        "description": "Browser extension to improve your browsing and shopping experience for Steam.",
-        "image": "./assets/images/sites/augmentedsteam.jpg",
-        "link": "https://augmentedsteam.com/",
-        "tags": [
-            "gaming",
-            "pc-gaming",
-            "browser-extension",
-            "firefox-extension",
-            "chrome-extension"
         ]
     },
     {
@@ -444,21 +410,29 @@
         ]
     },
     {
-        "title": "GOG Galaxy",
-        "description": "All the games from various stores in one place to organize the entire game library.",
-        "image": "./assets/images/sites/goggalaxy.jpg",
-        "link": "https://www.gog.com/galaxy",
+        "title": "Mark Rober",
+        "link": "https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg",
         "tags": [
-            "gaming",
-            "pc-gaming"
+            "youtube",
+            "science",
+            "engineering"
         ]
     },
     {
-        "title": "Should you play it?",
-        "link": "https://www.youtube.com/channel/UCI7jCWExkpw2UTupPKcCsbg",
+        "title": "Material UI",
+        "link": "https://material-ui.com/",
         "tags": [
-            "gaming",
-            "pc-gaming"
+            "css-library",
+            "web-designing"
+        ]
+    },
+    {
+        "title": "MinuteEarth",
+        "link": "https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w",
+        "tags": [
+            "youtube",
+            "science",
+            "curiosity"
         ]
     },
     {
@@ -470,167 +444,44 @@
         ]
     },
     {
-        "title": "Steam",
-        "link": "https://store.steampowered.com/",
+        "title": "Net Shutdowns",
+        "link": "https://internetshutdowns.in/",
         "tags": [
-            "gaming",
-            "pc-gaming"
+            "research-n-data",
+            "internet-health",
+            "india-only"
         ]
     },
     {
-        "title": "Epic Games",
-        "link": "https://www.epicgames.com/store/en-US/",
+        "title": "NetGuard",
+        "description": "NetGuard provides simple and advanced ways to block access to the internet - no root required.",
+        "image": "./assets/images/sites/netguard.jpg",
+        "link": "https://privacytools.io/",
         "tags": [
-            "gaming",
-            "pc-gaming"
-        ]
-    },
-    {
-        "title": "Green Man",
-        "link": "https://www.greenmangaming.com/",
-        "tags": [
-            "gaming",
-            "pc-gaming"
-        ]
-    },
-    {
-        "title": "GOG",
-        "link": "https://www.gog.com/",
-        "tags": [
-            "gaming",
-            "pc-gaming"
-        ]
-    },
-    {
-        "title": "IndieGala",
-        "link": "https://www.indiegala.com/",
-        "tags": [
-            "gaming",
-            "pc-gaming"
-        ]
-    },
-    {
-        "title": "Kingguin",
-        "link": "https://www.kinguin.net/",
-        "tags": [
-            "gaming",
-            "pc-gaming"
-        ]
-    },
-    {
-        "title": "Fanatical",
-        "link": "https://www.fanatical.com/en/",
-        "tags": [
-            "gaming",
-            "pc-gaming"
-        ]
-    },
-    {
-        "title": "Humble Bundle",
-        "link": "https://www.humblebundle.com/",
-        "tags": [
-            "gaming",
-            "pc-gaming"
-        ]
-    },
-    {
-        "title": "Shell Tutorial",
-        "link": "https://www.shellscript.sh",
-        "tags": [
-            "software-development",
+            "privacy",
+            "android",
+            "tools",
             "free"
         ]
     },
     {
-        "title": "Geeks for Geeks",
-        "link": "https://www.geeksforgeeks.org/",
+        "title": "News Laundry",
+        "description": "Reader-supported independent media organisation | News and analysis in podcast, video, text and comics.",
+        "image": "./assets/images/sites/newslaundry.jpg",
+        "link": "https://www.newslaundry.com/",
         "tags": [
-            "software-development",
-            "competitive-coding",
-            "education"
+            "news",
+            "india-only"
         ]
     },
     {
-        "title": "AlgoExpert",
-        "link": "https://www.algoexpert.io/",
+        "title": "Ooni | Probe",
+        "description": "Measure internet censorship. Check how much data and in which caterories your ISP and country is blocking.",
+        "image": "./assets/images/sites/ooni.jpg",
+        "link": "https://ooni.org/install/",
         "tags": [
-            "software-development",
-            "competitive-coding",
-            "paid"
-        ]
-    },
-    {
-        "title": "HackerRank",
-        "link": "https://www.hackerrank.com/",
-        "tags": [
-            "software-development",
-            "competitive-coding"
-        ]
-    },
-    {
-        "title": "LeetCode",
-        "link": "https://leetcode.com/",
-        "tags": [
-            "software-development",
-            "competitive-coding"
-        ]
-    },
-    {
-        "title": "HackerEarth",
-        "link": "https://www.hackerearth.com/",
-        "tags": [
-            "software-development",
-            "competitive-coding"
-        ]
-    },
-    {
-        "title": "Bootstrap Icons",
-        "description": "Free, high quality, open source icon library with over 1,300 icons. SVGs, SVG sprite, or web fonts.",
-        "image": "./assets/images/sites/bootstrap-fonts.png",
-        "link": "https://icons.getbootstrap.com",
-        "tags": [
-            "icons",
-            "svg-icons",
-            "jpg-icons",
-            "web-designing",
-            "free"
-        ]
-    },
-    {
-        "title": "Google Icons",
-        "description": "Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics.",
-        "image": "./assets/images/sites/google-fonts.jpg",
-        "link": "https://fonts.google.com/icons",
-        "tags": [
-            "icons",
-            "svg-icons",
-            "jpg-icons",
-            "web-designing",
-            "free"
-        ]
-    },
-    {
-        "title": "Undraw",
-        "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
-        "image": "./assets/images/sites/undraw.jpg",
-        "link": "https://undraw.co",
-        "tags": [
-            "illustrations",
-            "doodle",
-            "web-designing",
-            "free"
-        ]
-    },
-    {
-        "title": "Scale",
-        "description": "Royalty free Vector Illustrations for Commercial Use. One new high-quality, free illustration each day.",
-        "image": "./assets/images/sites/scale-flexiple.jpg",
-        "link": "https://2.flexiple.com/scale/home",
-        "tags": [
-            "illustrations",
-            "web-designing",
-            "doodle",
-            "free"
+            "tools",
+            "internet-health"
         ]
     },
     {
@@ -644,27 +495,15 @@
         ]
     },
     {
-        "title": "Doodle",
-        "description": "Book multi-timezone meetings faster with doodle meeting scheduler.",
-        "image": "./assets/images/sites/doodle.jpg",
-        "link": "https://doodle.com/",
+        "title": "Our world in data",
+        "description": "Our world represented in graphs and data by researhers and experts.",
+        "image": "./assets/images/sites/ourworldindata.jpg",
+        "link": "https://ourworldindata.org/",
         "tags": [
-            "international-teams",
-            "productivity-tools",
-            "freemium",
-            "tools",
-            "work",
+            "research-n-data",
+            "charts",
+            "graphs",
             "free"
-        ]
-    },
-    {
-        "title": "Ooni | Probe",
-        "description": "Measure internet censorship. Check how much data and in which caterories your ISP and country is blocking.",
-        "image": "./assets/images/sites/ooni.jpg",
-        "link": "https://ooni.org/install/",
-        "tags": [
-            "tools",
-            "internet-health"
         ]
     },
     {
@@ -681,84 +520,6 @@
         ]
     },
     {
-        "title": "Can I Use",
-        "description": "Detailed browser API support information",
-        "image": "./assets/images/sites/caniuse.jpg",
-        "link": "https://caniuse.com/",
-        "tags": [
-            "web-development",
-            "software-development",
-            "tools",
-            "free"
-        ]
-    },
-    {
-        "title": "Bootstrap",
-        "link": "https://getbootstrap.com/",
-        "tags": [
-            "css-library",
-            "web-designing"
-        ]
-    },
-    {
-        "title": "Material UI",
-        "link": "https://material-ui.com/",
-        "tags": [
-            "css-library",
-            "web-designing"
-        ]
-    },
-    {
-        "title": "Color Tool",
-        "link": "https://material.io/resources/color/",
-        "tags": [
-            "web-designing",
-            "accessibility"
-        ]
-    },
-    {
-        "title": "Shadow Tool",
-        "link": "https://bfotool.com/css-box-shadow",
-        "tags": [
-            "web-designing"
-        ]
-    },
-    {
-        "title": "Image Placeholder",
-        "link": "https://placeholder.com/",
-        "tags": [
-            "web-designing"
-        ]
-    },
-    {
-        "title": "HTML Balancer",
-        "link": "https://jonaquino.blogspot.com/2013/05/unclosed-tag-finder.html",
-        "tags": [
-            "web-designing"
-        ]
-    },
-    {
-        "title": "Crowd Size Estimation",
-        "description": "This tool helps you estimate and fact-check the maximum number of people standing in a given area.",
-        "image": "https://www.mapchecking.com/socialimage.png",
-        "link": "https://www.mapchecking.com",
-        "tags": [
-            "journalism",
-            "fack-checking",
-            "misc"
-        ]
-    },
-    {
-        "title": "Kismet",
-        "description": "Kismet is a wireless network and device detector, sniffer, wardriving tool, and WIDS framework.",
-        "image": "./assets/images/sites/kismet.jpg",
-        "link": "https://www.mapchecking.com",
-        "tags": [
-            "network-security",
-            "misc"
-        ]
-    },
-    {
         "title": "Plex TV",
         "link": "https://app.plex.tv/desktop/#!/",
         "tags": [
@@ -768,46 +529,55 @@
         ]
     },
     {
-        "title": "ASLMeredith",
-        "link": "https://www.youtube.com/channel/UCsuBAbMlPGJ95w3mwhz-30g",
+        "title": "Pluralsight",
+        "link": "https://www.pluralsight.com/",
         "tags": [
-            "accessibility"
+            "education",
+            "paid"
         ]
     },
     {
-        "title": "News Laundry",
-        "description": "Reader-supported independent media organisation | News and analysis in podcast, video, text and comics.",
-        "image": "./assets/images/sites/newslaundry.jpg",
-        "link": "https://www.newslaundry.com/",
+        "title": "Poynter",
+        "description": "A Short Course on Hands-on Fact-checking to beat fake news.",
+        "image": "https://www.poynter.org/wp-content/uploads/2019/06/hands-on-fact-checking-english.png",
+        "link": "https://www.poynter.org/shop/fact-checking/handson-factchecking/",
         "tags": [
-            "news",
-            "india-only"
+            "education",
+            "journalism",
+            "fack-checking",
+            "free"
         ]
     },
     {
-        "title": "Faye D'Souza",
-        "description": "Faye D'Souza is an Indian journalist and a television news anchor.",
-        "image": "./assets/images/sites/fayedsouza.jpg",
-        "link": "https://www.youtube.com/channel/UCzI8K9xO_5E-4iCP7Km6cRQ",
+        "title": "Privacy tools",
+        "description": "You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.",
+        "image": "./assets/images/sites/privacytoolsio.jpg",
+        "link": "https://privacytools.io/",
         "tags": [
-            "news",
+            "privacy",
+            "research-n-data"
+        ]
+    },
+    {
+        "title": "Rare Earth",
+        "description": "I fly somewhere. I film it. I find cool stories about it, and write them down. Then I tell them to you.",
+        "image": "./assets/images/sites/yt-rareearth.png",
+        "link": "https://www.youtube.com/channel/UCtGG8ucQgEJPeUPhJZ4M4jA",
+        "tags": [
+            "ideas",
+            "world",
             "youtube",
-            "india-only"
+            "history",
+            "curiosity"
         ]
     },
     {
-        "title": "BSBO",
-        "link": "https://www.youtube.com/channel/UCx8nY9DrRrV-_i7oJdBEZxA",
+        "title": "RedAct",
+        "link": "https://redact.dev/",
         "tags": [
-            "news"
-        ]
-    },
-    {
-        "title": "Bisbo",
-        "link": "https://www.youtube.com/channel/UCRS07TwUdb9hTnnX0r5CuxA",
-        "tags": [
-            "news",
-            "india-only"
+            "privacy",
+            "tools",
+            "free"
         ]
     },
     {
@@ -827,12 +597,186 @@
         ]
     },
     {
-        "title": "RedAct",
-        "link": "https://redact.dev/",
+        "title": "Scale",
+        "description": "Royalty free Vector Illustrations for Commercial Use. One new high-quality, free illustration each day.",
+        "image": "./assets/images/sites/scale-flexiple.jpg",
+        "link": "https://2.flexiple.com/scale/home",
         "tags": [
-            "privacy",
+            "illustrations",
+            "web-designing",
+            "doodle",
+            "free"
+        ]
+    },
+    {
+        "title": "School of Life",
+        "description": "The School of Life is a collective of psychologists, philosophers and writers devoted to helping people lead calmer and more resilient lives.",
+        "image": "./assets/images/sites/schooloflife.jpg",
+        "link": "https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog",
+        "tags": [
+            "ideas",
+            "youtube",
+            "education",
+            "curiosity",
+            "philosophy",
+            "personal-growth"
+        ]
+    },
+    {
+        "title": "Shadow Tool",
+        "link": "https://bfotool.com/css-box-shadow",
+        "tags": [
+            "web-designing"
+        ]
+    },
+    {
+        "title": "Shell Tutorial",
+        "link": "https://www.shellscript.sh",
+        "tags": [
+            "software-development",
+            "free"
+        ]
+    },
+    {
+        "title": "Should you play it?",
+        "link": "https://www.youtube.com/channel/UCI7jCWExkpw2UTupPKcCsbg",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "Skill Share",
+        "link": "https://www.skillshare.com/",
+        "tags": [
+            "education",
+            "paid"
+        ]
+    },
+    {
+        "title": "Smart Wallpaper",
+        "link": "https://smart-wallpaper.en.uptodown.com/android/download",
+        "tags": [
+            "android",
             "tools",
             "free"
+        ]
+    },
+    {
+        "title": "SmarterEveryDay",
+        "link": "https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA",
+        "tags": [
+            "youtube",
+            "science",
+            "curiosity",
+            "engineering"
+        ]
+    },
+    {
+        "title": "Spurious Correlations",
+        "description": "Charts proving blind trust on data is wrong, data can be tortured to confess to anything.",
+        "image": "./assets/images/sites/spurious-correlations.svg",
+        "link": "http://www.tylervigen.com/spurious-correlations",
+        "tags": [
+            "research-n-data",
+            "charts",
+            "graphs"
+        ]
+    },
+    {
+        "title": "Steam",
+        "link": "https://store.steampowered.com/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "Steam DB",
+        "description": "This third-party tool gives you better insight into the Steam platform and everything in its database.",
+        "image": "./assets/images/sites/steamdb.jpg",
+        "link": "https://steamdb.info/",
+        "tags": [
+            "gaming",
+            "pc-gaming"
+        ]
+    },
+    {
+        "title": "TED Talks",
+        "description": "TED is a nonprofit devoted to spreading ideas, usually in the form of short, powerful talks.",
+        "image": "./assets/images/sites/tedtalks.jpg",
+        "link": "https://www.ted.com/talks",
+        "tags": [
+            "ideas",
+            "science",
+            "business",
+            "curiosity",
+            "education",
+            "technology",
+            "entertainment",
+            "global-issues"
+        ]
+    },
+    {
+        "title": "Tails OS",
+        "link": "https://tails.boum.org/",
+        "tags": [
+            "privacy",
+            "operating-system",
+            "OS"
+        ]
+    },
+    {
+        "title": "Team Trees",
+        "description": "1 Dollar = 1 Tree. Donate to plant a tree.",
+        "image": "./assets/images/sites/teamtrees.jpg",
+        "link": "https://teamtrees.org/",
+        "tags": [
+            "environment",
+            "global-issues"
+        ]
+    },
+    {
+        "title": "Techquickie",
+        "description": "With a mix of humor, cynicism, and insight, Techquickie brings you tech news.",
+        "image": "./assets/images/sites/yt-techquickie.png",
+        "link": "https://www.youtube.com/user/Techquickie",
+        "tags": [
+            "youtube",
+            "software-development",
+            "technology",
+            "news"
+        ]
+    },
+    {
+        "title": "Ted Ed",
+        "description": "TED-Ed’s commitment to creating lessons worth sharing.",
+        "image": "./assets/images/sites/teded.jpg",
+        "link": "https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA",
+        "tags": [
+            "ideas",
+            "youtube",
+            "education",
+            "curiosity"
+        ]
+    },
+    {
+        "title": "The Better Home",
+        "description": "The Better Home is a range of natural cleaning products built on the belief that you should not have to choose between what’s effective, what’s good for you, and what’s good for the planet.",
+        "image": "./assets/images/sites/the-better-home.jpg",
+        "link": "https://shop.thebetterindia.com",
+        "tags": [
+            "environment",
+            "india-only"
+        ]
+    },
+    {
+        "title": "The Onion",
+        "link": "https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A",
+        "tags": [
+            "youtube",
+            "satire",
+            "comedy"
         ]
     },
     {
@@ -845,14 +789,70 @@
         ]
     },
     {
-        "title": "CryptPad",
-        "link": "https://cryptpad.fr/",
+        "title": "Tutanota",
+        "link": "https://tutanota.com/pricing/",
         "tags": [
             "privacy",
-            "software",
-            "encrypted",
-            "tools",
+            "paid"
+        ]
+    },
+    {
+        "title": "UNSD Goals",
+        "description": "The 2030 Agenda for Sustainable Development, adopted by all UN Member States in 2015.",
+        "image": "./assets/images/sites/unsdg.jpg",
+        "link": "https://sdgs.un.org/goals",
+        "tags": [
+            "environment",
+            "global-issues",
+            "un"
+        ]
+    },
+    {
+        "title": "Udacity",
+        "link": "https://www.udacity.com/",
+        "tags": [
+            "education",
+            "paid"
+        ]
+    },
+    {
+        "title": "Udemy",
+        "link": "https://www.udemy.com/",
+        "tags": [
+            "education",
+            "paid"
+        ]
+    },
+    {
+        "title": "Undraw",
+        "description": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.",
+        "image": "./assets/images/sites/undraw.jpg",
+        "link": "https://undraw.co",
+        "tags": [
+            "illustrations",
+            "doodle",
+            "web-designing",
             "free"
+        ]
+    },
+    {
+        "title": "Veritasium",
+        "link": "https://www.youtube.com/c/veritasium",
+        "tags": [
+            "ideas",
+            "youtube",
+            "science",
+            "curiosity",
+            "engineering"
+        ]
+    },
+    {
+        "title": "exurb1a",
+        "link": "https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg",
+        "tags": [
+            "youtube",
+            "existentialism",
+            "philosophy"
         ]
     }
 ]
