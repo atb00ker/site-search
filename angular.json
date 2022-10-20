@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "site-search"
+  "defaultProject": "site-search",
+  "cli": {
+    "analytics": false
+  }
 }
