@@ -681,6 +681,18 @@
         ]
     },
     {
+        "title": "Can I Use",
+        "description": "Detailed browser API support information",
+        "image": "./assets/images/sites/caniuse.jpg",
+        "link": "https://caniuse.com/",
+        "tags": [
+            "web-development",
+            "software-development",
+            "tools",
+            "free"
+        ]
+    },
+    {
         "title": "Bootstrap",
         "link": "https://getbootstrap.com/",
         "tags": [

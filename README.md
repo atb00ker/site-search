@@ -10,6 +10,7 @@ Enables sharing of useful sites.
 ### Setup
 
 - Install requirements:
+
 ```bash
 npm install --dev
 npm install -g @angular/cli
@@ -26,11 +27,10 @@ npm install -g @angular/cli
 3. Find `id="channel-header"` and set following properties to element:
 
 ```css
-    padding: 80px;
-    margin: 160px;
-    padding-right: 20px;
-    padding-left: 60px;
-
+padding: 80px;
+margin: 160px;
+padding-right: 20px;
+padding-left: 60px;
 ```
 
 4. Capture the element from Firefox screenshot capture tool.
@@ -48,11 +48,11 @@ If you want to host your own version, follow these steps:
 1. Create a fork of the code.
 2. Edit JSON in `src/assets/data/`.
 3. Edit application configurations in `src/environments/common.ts`
-3. Install node.js & npm.
+4. Install node.js & npm.
 5. Follow the steps below to deploy.
 
 ### Deploy
 
-- Setup                          : `npm install -g angular-cli-ghpages`
+- Setup : `npm install -g angular-cli-ghpages`
 - Build (Change URL as per fork) : `ng build --prod --base-href https://atb00ker.github.io/site-search/`
-- Deploy                         : `ngh --dir dist/site-search/`
+- Deploy : `ngh --dir dist/site-search/`
