@@ -1,3 +1,9 @@
+
+**Archived**: I've started using Linkwarden for myself and do not intend to maintain this anymore, hence the repository is marked as archived.
+Feel free to fork and continue working on it if it's useful for you. 😄
+
+---
+
 # Site Search
 
 Enables sharing of useful sites.
